@@ -66,10 +66,3 @@ erDiagram
         date next_billing_date
         enum status
     }
-
-
-Layer,Component,Description
-Database Engine,MySQL Community Server,Local high-performance relation engine handling indices and data persistence.
-Runtime Language,Python 3.x,Controls frontend option validation and business logic calculations.
-Database Connector,mysql-connector-python,Driver processing relational pipelines securely on Mac architecture.
-Configuration Security,python-dotenv,Decouples local server login keys into un-tracked local workspaces.
